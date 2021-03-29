@@ -4,3 +4,4 @@ cal
 echo "bye"
 echo "welcome back"
 echo "am back"
+echo "github trigger auto"
