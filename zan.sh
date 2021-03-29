@@ -3,3 +3,4 @@ date
 cal
 echo "bye"
 echo "welcome back"
+echo "am back"
